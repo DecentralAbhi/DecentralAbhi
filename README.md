@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DecentralAbhi&bg_color=0d0221&color=ff6b35&line=ffd166&point=ffffff&area=true&area_color=ff6b35&title_color=ffd166&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?...
 </p>
 
 <h2 align="center">✦ Snake vs My Contributions ✦</h2>
